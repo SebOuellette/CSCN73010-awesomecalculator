@@ -11,7 +11,7 @@ setuptools.setup(
     description="An awesome calculator package",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/dedreira/awesomecalculator",
+    url="https://github.com/SebOuellette/CSCN73010-awesomecalculator",
     packages=setuptools.find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
